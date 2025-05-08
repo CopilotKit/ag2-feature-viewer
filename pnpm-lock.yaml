@@ -8,33 +8,33 @@ importers:
 
   .:
     dependencies:
-      '@agentwire/client':
-        specifier: 0.0.26
-        version: 0.0.26
-      '@agentwire/core':
-        specifier: 0.0.26
-        version: 0.0.26
-      '@agentwire/encoder':
-        specifier: 0.0.26
-        version: 0.0.26
-      '@agentwire/proto':
-        specifier: 0.0.26
-        version: 0.0.26
+      '@ag-ui/client':
+        specifier: 0.0.27
+        version: 0.0.27
+      '@ag-ui/core':
+        specifier: 0.0.27
+        version: 0.0.27
+      '@ag-ui/encoder':
+        specifier: 0.0.27
+        version: 0.0.27
+      '@ag-ui/proto':
+        specifier: 0.0.27
+        version: 0.0.27
       '@copilotkit/react-core':
-        specifier: 0.0.0-mme-awp-20250407201240
-        version: 0.0.0-mme-awp-20250407201240(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: 1.8.10
+        version: 1.8.10(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@copilotkit/react-ui':
-        specifier: 0.0.0-mme-awp-20250407201240
-        version: 0.0.0-mme-awp-20250407201240(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: 1.8.10
+        version: 1.8.10(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@copilotkit/runtime':
-        specifier: 0.0.0-mme-awp-20250407201240
-        version: 0.0.0-mme-awp-20250407201240(@browserbasehq/sdk@2.4.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(zod@3.24.2))(@ibm-cloud/watsonx-ai@1.5.1(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))))(axios@1.8.4)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(ws@8.18.1)
+        specifier: 1.8.10
+        version: 1.8.10(@browserbasehq/sdk@2.4.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(zod@3.24.2))(@ibm-cloud/watsonx-ai@1.5.1(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))))(axios@1.8.4)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.0.0)(ws@8.18.1)
       '@copilotkit/runtime-client-gql':
-        specifier: 0.0.0-mme-awp-20250407201240
-        version: 0.0.0-mme-awp-20250407201240(graphql@16.10.0)(react@19.0.0)
+        specifier: 1.8.10
+        version: 1.8.10(graphql@16.10.0)(react@19.0.0)
       '@copilotkit/shared':
-        specifier: 0.0.0-mme-awp-20250407201240
-        version: 0.0.0-mme-awp-20250407201240
+        specifier: 1.8.10
+        version: 1.8.10
       '@mdx-js/loader':
         specifier: ^3.1.0
         version: 3.1.0(acorn@8.14.1)
@@ -179,17 +179,17 @@ packages:
       graphql:
         optional: true
 
-  '@agentwire/client@0.0.26':
-    resolution: {integrity: sha512-EoZBoKzRit+o2vQ4Nu0lgnM3ONXeKiOdxHLhNX94egAJbXsC1LPvnsTFYJKONYLYqAM4Bqpn8Yrz9e38RFj9pQ==}
+  '@ag-ui/client@0.0.27':
+    resolution: {integrity: sha512-W7PX/C40dxeCdf/j9lSL6TI8IEpWct/Fn9JkZdX3zXFf5rPN+RpckRKhYTC0ZstMi909oTww7SHVsVm7exPReg==}
 
-  '@agentwire/core@0.0.26':
-    resolution: {integrity: sha512-sUJwPt9AUAOq00/ZWyK2XtXLlD92eD3QTOTr8v0lcryst+f8FffoC9MSKx7aTFtmTL8g2Ku/0LnyLvsnOTweqg==}
+  '@ag-ui/core@0.0.27':
+    resolution: {integrity: sha512-I8i0qsamIVaOhPZ11bz7a+JQ7DIwIhLCon2EYWHikgcLiWzfZNBJhlVBR6Fn29tv3Ost4p6wYWQy84WzAhjJ+Q==}
 
-  '@agentwire/encoder@0.0.26':
-    resolution: {integrity: sha512-Amtv4ogNoj63FHkABLnWxaVvoSl+5r1V+HkjuZGvcdgkT5PJLFq2VRYQMNoLg4zW3uK7SOjqngRlQvqukTpb3g==}
+  '@ag-ui/encoder@0.0.27':
+    resolution: {integrity: sha512-GO42BDdi9pmNsfhPlMQeSxGFfMJJg/Jvgng/N/5elHEfEOjGVtOCkDPpN4lirkuBoXEh/hW6gIgYAXDu/HuZJA==}
 
-  '@agentwire/proto@0.0.26':
-    resolution: {integrity: sha512-SGBFWf4cNrapEgcSVMt9wMVi8XTIuah5tMVPeY7fyWA/569Plp3fgBNg9rQceGYRGdrZmIhGeYvWjS2+Th9Wyg==}
+  '@ag-ui/proto@0.0.27':
+    resolution: {integrity: sha512-bgF2DGqU+DvcNKF3gOlT97kZmhHNB0lWfjkJQ6ONxMtmWlSVYAE97LCtdTIjXEhnHyqi3QQBQ0BEXJ74q7QMcg==}
 
   '@alloc/quick-lru@5.2.0':
     resolution: {integrity: sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==}
@@ -220,27 +220,27 @@ packages:
   '@cfworker/json-schema@4.1.1':
     resolution: {integrity: sha512-gAmrUZSGtKc3AiBL71iNWxDsyUC5uMaKKGdvzYsBoTW/xi42JQHl7eKV2OYzCUqvc+D2RCcf7EXY2iCyFIk6og==}
 
-  '@copilotkit/react-core@0.0.0-mme-awp-20250407201240':
-    resolution: {integrity: sha512-LSC3JFFcJLIaYd9GtfGms+bNPWPHX2f8FKeiunvECgzdp+9LzH1BaI3GuAI+G+9NJREaXoblA/tnhVuERnjEcw==}
+  '@copilotkit/react-core@1.8.10':
+    resolution: {integrity: sha512-oDBaJFomoxiKMiA+cujDsbmw7QvgAGSE9voM32hn4Gz4GroQ0Gf3/djNHN+zeCJRMHhGjWBMTcjqs3Rw4p3zPQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
       react-dom: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/react-ui@0.0.0-mme-awp-20250407201240':
-    resolution: {integrity: sha512-fke2LQgEWA7c9++m5uh/+qAGg93xmfYsQXEfU32By1LEkPibMAtFMLJqXx7WJKqFHbTRWrWP4+ltjdp3gtbm5w==}
+  '@copilotkit/react-ui@1.8.10':
+    resolution: {integrity: sha512-qTSh43qrMnGKk5Qbvo1mDGp90ouPLE6sTlxhAPfr8XZXBoY1mb6DHIauuJFsOvP1YQctBvX7/ttKLw7oJSIyhA==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime-client-gql@0.0.0-mme-awp-20250407201240':
-    resolution: {integrity: sha512-Y4kBxl0FOg7ja326GzmM+0XV+FojjIqGpLjClh+827Jw+xDSK/Cn5lfH9+qf5buK5fwBBDrBCg9gpHygnkx3lw==}
+  '@copilotkit/runtime-client-gql@1.8.10':
+    resolution: {integrity: sha512-iFixkqEm5FRUr+TKckcviJPZru4L0ck5ws+M8165Hfc0vNkzHguN7k+Rm8kuadP6YNI8KU8YkllmXeM9dwg02A==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime@0.0.0-mme-awp-20250407201240':
-    resolution: {integrity: sha512-DKThrKGJ5cU6aGVUJGupR7SSfbyF21PSfZ313VEbzWFHCgakl6oZPQxb0C2QdNWNA4RTymAZWGMb2EN20lF8vg==}
+  '@copilotkit/runtime@1.8.10':
+    resolution: {integrity: sha512-MPLlj1q1kLtiWfNGgIx9SbQxa+WjW8bFP4jjqgXpCLXIeVS5yg8F0W8utmymhogcMl/Ip3BPa0cJ8L1MIt+U7A==}
 
-  '@copilotkit/shared@0.0.0-mme-awp-20250407201240':
-    resolution: {integrity: sha512-g9+NGKjnVK529KmXLh9Qooa+LWBRYndQgz+2bDagii0mSZp4dcW2C1gOGZ5NPWXr9bmMegRMbMzWRR1qW3m3PQ==}
+  '@copilotkit/shared@1.8.10':
+    resolution: {integrity: sha512-tYduQ2C+WkEHNvRZk6nf/jrX1/Dav1gdYETI/ja0c3aCmwVTxCyswvS4iMOjWzHN+ADAPqhGCHS25n2pRdt8jA==}
 
   '@emnapi/runtime@1.3.1':
     resolution: {integrity: sha512-kEBmG8KyqtxJZv+ygbEim+KCGtIq1fC22Ms3S4ziXmYKm8uyoLX0MHONVKwp+9opg390VaKRNt4a7A9NwmpNhw==}
@@ -892,8 +892,16 @@ packages:
     peerDependencies:
       '@langchain/core': '>=0.2.21 <0.4.0'
 
-  '@langchain/langgraph-sdk@0.0.36':
-    resolution: {integrity: sha512-KkAZM0uXBaMcD/dpGTBppOhbvNX6gz+Y1zFAC898OblegFkSvICrkd0oRQ5Ro/GWK/NAoDymnMUDXeZDdUkSuw==}
+  '@langchain/langgraph-sdk@0.0.70':
+    resolution: {integrity: sha512-O8I12bfeMVz5fOrXnIcK4IdRf50IqyJTO458V56wAIHLNoi4H8/JHM+2M+Y4H2PtslXIGnvomWqlBd0eY5z/Og==}
+    peerDependencies:
+      '@langchain/core': '>=0.2.31 <0.4.0'
+      react: ^18 || ^19
+    peerDependenciesMeta:
+      '@langchain/core':
+        optional: true
+      react:
+        optional: true
 
   '@langchain/openai@0.4.9':
     resolution: {integrity: sha512-NAsaionRHNdqaMjVLPkFCyjUDze+OqRHghA1Cn4fPoAafz+FXcl9c7LlEl9Xo0FH6/8yiCl7Rw2t780C/SBVxQ==}
@@ -4762,11 +4770,11 @@ snapshots:
     optionalDependencies:
       graphql: 16.10.0
 
-  '@agentwire/client@0.0.26':
+  '@ag-ui/client@0.0.27':
     dependencies:
-      '@agentwire/core': 0.0.26
-      '@agentwire/encoder': 0.0.26
-      '@agentwire/proto': 0.0.26
+      '@ag-ui/core': 0.0.27
+      '@ag-ui/encoder': 0.0.27
+      '@ag-ui/proto': 0.0.27
       '@types/uuid': 10.0.0
       fast-json-patch: 3.1.1
       rxjs: 7.8.1
@@ -4774,19 +4782,19 @@ snapshots:
       uuid: 11.1.0
       zod: 3.24.2
 
-  '@agentwire/core@0.0.26':
+  '@ag-ui/core@0.0.27':
     dependencies:
       rxjs: 7.8.1
       zod: 3.24.2
 
-  '@agentwire/encoder@0.0.26':
+  '@ag-ui/encoder@0.0.27':
     dependencies:
-      '@agentwire/core': 0.0.26
-      '@agentwire/proto': 0.0.26
+      '@ag-ui/core': 0.0.27
+      '@ag-ui/proto': 0.0.27
 
-  '@agentwire/proto@0.0.26':
+  '@ag-ui/proto@0.0.27':
     dependencies:
-      '@agentwire/core': 0.0.26
+      '@ag-ui/core': 0.0.27
       '@bufbuild/protobuf': 2.2.5
 
   '@alloc/quick-lru@5.2.0': {}
@@ -4839,10 +4847,10 @@ snapshots:
 
   '@cfworker/json-schema@4.1.1': {}
 
-  '@copilotkit/react-core@0.0.0-mme-awp-20250407201240(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@copilotkit/react-core@1.8.10(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
-      '@copilotkit/runtime-client-gql': 0.0.0-mme-awp-20250407201240(graphql@16.10.0)(react@19.0.0)
-      '@copilotkit/shared': 0.0.0-mme-awp-20250407201240
+      '@copilotkit/runtime-client-gql': 1.8.10(graphql@16.10.0)(react@19.0.0)
+      '@copilotkit/shared': 1.8.10
       '@scarf/scarf': 1.4.0
       react: 19.0.0
       react-dom: 19.0.0(react@19.0.0)
@@ -4854,11 +4862,11 @@ snapshots:
       - graphql
       - supports-color
 
-  '@copilotkit/react-ui@0.0.0-mme-awp-20250407201240(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@copilotkit/react-ui@1.8.10(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
-      '@copilotkit/react-core': 0.0.0-mme-awp-20250407201240(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@copilotkit/runtime-client-gql': 0.0.0-mme-awp-20250407201240(graphql@16.10.0)(react@19.0.0)
-      '@copilotkit/shared': 0.0.0-mme-awp-20250407201240
+      '@copilotkit/react-core': 1.8.10(@types/react@19.0.10)(graphql@16.10.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@copilotkit/runtime-client-gql': 1.8.10(graphql@16.10.0)(react@19.0.0)
+      '@copilotkit/shared': 1.8.10
       '@headlessui/react': 2.2.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react: 19.0.0
       react-markdown: 8.0.7(@types/react@19.0.10)(react@19.0.0)
@@ -4872,9 +4880,9 @@ snapshots:
       - react-dom
       - supports-color
 
-  '@copilotkit/runtime-client-gql@0.0.0-mme-awp-20250407201240(graphql@16.10.0)(react@19.0.0)':
+  '@copilotkit/runtime-client-gql@1.8.10(graphql@16.10.0)(react@19.0.0)':
     dependencies:
-      '@copilotkit/shared': 0.0.0-mme-awp-20250407201240
+      '@copilotkit/shared': 1.8.10
       '@urql/core': 5.1.1(graphql@16.10.0)
       react: 19.0.0
       untruncate-json: 0.0.1
@@ -4883,19 +4891,19 @@ snapshots:
       - encoding
       - graphql
 
-  '@copilotkit/runtime@0.0.0-mme-awp-20250407201240(@browserbasehq/sdk@2.4.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(zod@3.24.2))(@ibm-cloud/watsonx-ai@1.5.1(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))))(axios@1.8.4)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(ws@8.18.1)':
+  '@copilotkit/runtime@1.8.10(@browserbasehq/sdk@2.4.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(zod@3.24.2))(@ibm-cloud/watsonx-ai@1.5.1(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))))(axios@1.8.4)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(playwright@1.51.0)(react@19.0.0)(ws@8.18.1)':
     dependencies:
-      '@agentwire/client': 0.0.26
-      '@agentwire/core': 0.0.26
-      '@agentwire/encoder': 0.0.26
-      '@agentwire/proto': 0.0.26
+      '@ag-ui/client': 0.0.27
+      '@ag-ui/core': 0.0.27
+      '@ag-ui/encoder': 0.0.27
+      '@ag-ui/proto': 0.0.27
       '@anthropic-ai/sdk': 0.27.3
-      '@copilotkit/shared': 0.0.0-mme-awp-20250407201240
+      '@copilotkit/shared': 1.8.10
       '@graphql-yoga/plugin-defer-stream': 3.13.2(graphql-yoga@5.13.2(graphql@16.10.0))(graphql@16.10.0)
       '@langchain/community': 0.3.37(@browserbasehq/sdk@2.4.0)(@browserbasehq/stagehand@1.14.0(@playwright/test@1.51.0)(deepmerge@4.3.1)(dotenv@16.4.7)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(zod@3.24.2))(@ibm-cloud/watsonx-ai@1.5.1(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))))(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(axios@1.8.4)(google-auth-library@8.9.0)(ibm-cloud-sdk-core@5.3.2)(ignore@5.3.2)(jsonwebtoken@9.0.2)(openai@4.90.0(ws@8.18.1)(zod@3.24.2))(playwright@1.51.0)(ws@8.18.1)
       '@langchain/core': 0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))
       '@langchain/google-gauth': 0.1.8(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(zod@3.24.2)
-      '@langchain/langgraph-sdk': 0.0.36
+      '@langchain/langgraph-sdk': 0.0.70(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(react@19.0.0)
       '@langchain/openai': 0.4.9(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(ws@8.18.1)
       class-transformer: 0.5.1
       class-validator: 0.14.1
@@ -5043,6 +5051,7 @@ snapshots:
       - portkey-ai
       - puppeteer
       - pyodide
+      - react
       - redis
       - replicate
       - sonix-speech-recognition
@@ -5058,7 +5067,7 @@ snapshots:
       - ws
       - youtubei.js
 
-  '@copilotkit/shared@0.0.0-mme-awp-20250407201240':
+  '@copilotkit/shared@1.8.10':
     dependencies:
       '@segment/analytics-node': 2.2.1
       chalk: 4.1.2
@@ -5400,12 +5409,15 @@ snapshots:
       - supports-color
       - zod
 
-  '@langchain/langgraph-sdk@0.0.36':
+  '@langchain/langgraph-sdk@0.0.70(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(react@19.0.0)':
     dependencies:
       '@types/json-schema': 7.0.15
       p-queue: 6.6.2
       p-retry: 4.6.2
       uuid: 9.0.1
+    optionalDependencies:
+      '@langchain/core': 0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2))
+      react: 19.0.0
 
   '@langchain/openai@0.4.9(@langchain/core@0.3.43(openai@4.90.0(ws@8.18.1)(zod@3.24.2)))(ws@8.18.1)':
     dependencies:
